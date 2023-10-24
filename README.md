@@ -104,6 +104,3 @@ In this project, multiple model architectures were explored and implemented for 
 - Develop a user-friendly interface for medical professionals to use the model in a clinical setting for real-time brain tumor diagnosis.
 
 This project is a significant step forward in the field of medical image analysis and has the potential to make a meaningful impact on the early and accurate diagnosis of brain tumors.
-
-Feel free to customize and expand on this README as needed for your project.
-
